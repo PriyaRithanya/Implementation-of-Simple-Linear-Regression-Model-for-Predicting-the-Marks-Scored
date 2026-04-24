@@ -45,6 +45,10 @@ plt.ylabel("Marks Scored")
 plt.title("Simple Linear Regression (Using sklearn)")
 plt.legend()
 plt.show()
+
+
+PRIYARITHANYA M
+212225240108
 ```
 
 ## Output:
